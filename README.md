@@ -24,6 +24,6 @@
 📬 Contacto:  
 📧 porfirio_payan@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/analista-javier-payan/)  
-💻 [GitHub](https://github.com/javierpayan10)
+
 
 <!-- Puedes agregar badges, GIFs, o enlaces a proyectos destacados aquí -->
