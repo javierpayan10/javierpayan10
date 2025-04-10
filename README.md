@@ -1,4 +1,4 @@
-<img src="https://github.com/javierpayan10/javierpayan10/blob/main/Black%20and%20White%20Simple%20Project%20Manager%20LinkedIn%20Banner.png" alt="Porfirio Payán - Data Analyst" width="100%">
+<img src="https://github.com/javierpayan10/javierpayan10/blob/main/Data%20Analyst%20LinkedIn%20Banner.png" alt="Porfirio Payán - Data Analyst" width="100%">
 
 <h1 align="center">Hi 👋, I'm Porfirio Javier Payán</h1>
 <h3 align="center">Aspiring Data Analyst with a background in Engineering</h3>
