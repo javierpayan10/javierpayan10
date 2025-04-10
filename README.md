@@ -1,9 +1,8 @@
+<img src="https://github.com/javierpayan10/javierpayan10/blob/main/Black%20and%20Blue%20Futuristic%20Data%20Analyst%20LinkedIn%20Banner%20(1).png?raw=true" alt="Porfirio Payán - Data Analyst" width="100%">
+
 <h1 align="center">Hi 👋, I'm Javier Payán</h1>
 <h3 align="center">Aspiring Data Analyst with a background in Engineering</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="coding" />
-</p>
 
 - 🔭 I’m currently working on projects using **Python, SQL, Tableau and Power BI**  
 - 🌱 I’m currently learning **Machine Learning and Statistics**
