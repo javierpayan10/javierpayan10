@@ -1,29 +1,37 @@
-# 👋 ¡Hola! Soy Porfirio Javier Payán Ferreira
+<h1 align="center">Hi 👋, I'm Javier Payán</h1>
+<h3 align="center">Aspiring Data Analyst with a background in Engineering</h3>
 
-👨‍💻 Analista de Datos en formación, con experiencia en minería subterránea y pasión por resolver problemas usando datos.
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="coding" />
+</p>
 
-## ⚙️ Herramientas que uso
+- 🔭 I’m currently working on projects using **Python, SQL, Tableau and Power BI**  
+- 🌱 I’m currently learning **Machine Learning and Statistics**
+- 💬 Ask me about **data visualization, exploratory analysis, A/B testing**
+- 📫 How to reach me: **porfirio_payan@hotmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/analista-javier-payan/) | [GitHub](https://github.com/javierpayan10)
+
+---
+
+### 🛠 Tools and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-📊 Mis proyectos incluyen:
-- Análisis de ventas de videojuegos
-- Evaluación de pruebas A/B
-- Análisis de bases de datos de libros
-- Visualización de datos de telecomunicaciones
+### 📈 GitHub Stats
 
-🌎 Busco oportunidades como **Analista de Datos Junior**, idealmente remoto o híbrido.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javierpayan10&show_icons=true&theme=tokyonight" />
+</p>
 
-📬 Contacto:  
-📧 porfirio_payan@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/analista-javier-payan/)  
+---
 
+### 🚀 Projects I'm proud of
 
-<!-- Puedes agregar badges, GIFs, o enlaces a proyectos destacados aquí -->
+- 📊 [YouTube Trends Dashboard](https://github.com/javierpayan10/youtube-dashboard)
+- 📦 [E-Commerce A/B Test Analysis](https://github.com/javierpayan10/ecommerce-abtest)
